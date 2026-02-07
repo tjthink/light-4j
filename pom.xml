@@ -71,7 +71,7 @@
         <version.slf4j>1.7.25</version.slf4j>
         <version.jose4j>0.6.3</version.jose4j>
         <version.commons.codec>1.11</version.commons.codec>
-        <version.encoder>1.2.1</version.encoder>
+        <version.encoder>1.4.0</version.encoder>
         <version.logback>1.2.3</version.logback>
         <version.junit>4.12</version.junit>
         <version.mockito>2.23.0</version.mockito>
@@ -873,7 +873,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -890,7 +890,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
